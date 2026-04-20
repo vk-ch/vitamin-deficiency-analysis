@@ -1,6 +1,6 @@
 # Vitamin Deficiency and Disease Prediction
 
-**Python | Machine Learning | UW Foster MSBA | BUS 516**
+**Python | Machine Learning | UW Foster MSBA
 
 Predictive analysis exploring the relationship between vitamin deficiency levels and disease outcomes across a dataset of 4,000 patient records.
 
@@ -38,4 +38,4 @@ Predictive analysis exploring the relationship between vitamin deficiency levels
 
 ---
 
-*Final project for BUS 516, UW Foster School of Business, MSBA program.*
+*Business Analytics.*
